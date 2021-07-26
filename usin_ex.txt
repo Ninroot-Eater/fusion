@@ -1,0 +1,8 @@
+usin = {"file_daddy": "daddy.csv",
+        "uni_dad": 0,
+        "lst_dad": [(2, 6), (3, 9), (4, 12), (9, 10)],
+
+        "file_mommy": "mommy.csv",
+        "uni_mom": 1,
+        "lst_mom": [(1, 0)]
+        }
